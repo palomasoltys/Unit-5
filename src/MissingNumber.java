@@ -10,6 +10,10 @@ public class MissingNumber {
 //    it would return 8: missingNumber({2, 1, 4, 3, 6, 5, 7, 10, 9}, 10) ⇒ 8
 //    If there is no missing number, the function should return 0.
     static int missingNumber(int[] numbers, int maxNum) {
+
+        //RUN TIME: O(N)
+        //SPACE COMPLEXITY: O(1)
+
         int expectedSum = 0;
         for(int i=1; i < maxNum+1; i++) {
             expectedSum+=i;
