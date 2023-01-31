@@ -17,5 +17,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="mockito.core" level="project" />
+    <orderEntry type="library" name="mockito.all" level="project" />
+    <orderEntry type="library" name="hamcrest" level="project" />
   </component>
 </module>

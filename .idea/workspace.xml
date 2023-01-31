@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae53162d-922c-4e4e-8abb-5184e336f889" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
+    <list default="true" id="ae53162d-922c-4e4e-8abb-5184e336f889" name="Changes" comment="Create Performance Test File for Missing Number">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockitoTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit-5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Unit-5.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +35,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.20018975",
+    "project.structure.side.proportion": "0.26840854"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +56,63 @@
       <option name="presentableId" value="Default" />
       <updated>1674493568296</updated>
     </task>
+    <task id="LOCAL-00001" summary="Missing Number in O(N) runtime and O(1) memory">
+      <created>1674495028926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674495028926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BalancedBrackets in O(N) runtime and O(N) memory">
+      <created>1674495897239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674495897239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add runtime and space complexity to missing number">
+      <created>1674495918322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674495918322</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sorting - QuickSort">
+      <created>1675003943295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675003943295</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create Test File for Missing Number">
+      <created>1675004610457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675004610457</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create Test File for BalancedBrackets">
+      <created>1675005176401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675005176401</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create Parameterized Test File for BalancedBrackets">
+      <created>1675005445664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675005445664</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create Performance Test File for Missing Number">
+      <created>1675006066808</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675006066808</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +125,32 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Missing Number in O(N) runtime and O(1) memory" />
+    <MESSAGE value="BalancedBrackets in O(N) runtime and O(N) memory" />
+    <MESSAGE value="Add runtime and space complexity to missing number" />
+    <MESSAGE value="Sorting - QuickSort" />
+    <MESSAGE value="Create Test File for Missing Number" />
+    <MESSAGE value="Create Test File for BalancedBrackets" />
+    <MESSAGE value="Create Parameterized Test File for BalancedBrackets" />
+    <MESSAGE value="Create Performance Test File for Missing Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Performance Test File for Missing Number" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MissingNumber.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
